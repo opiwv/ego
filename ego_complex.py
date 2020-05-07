@@ -136,5 +136,5 @@ nodes.head(3)
 # Print edges to check
 edges2.head(3)
 # Export nodes and edges to csv files
-nodes.to_csv('nodes.csv', encoding='utf-8', index=False)
-edges2.to_csv('edges.csv', encoding='utf-8', index=False)
+nodes.to_csv('nodes_complex.csv', encoding='utf-8', index=False)
+edges2.to_csv('edges_complex.csv', encoding='utf-8', index=False)
